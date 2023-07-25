@@ -5,7 +5,7 @@ Software engineer student at <a href="https://www.42prague.com">42 Prague</a>.
 I'm learning:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,sqlite,postgres,vscode,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=c,python,js,html,css,sqlite,postgres,vscode,git,github,linux" />
   </a>
 </p>
 
