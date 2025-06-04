@@ -1,6 +1,13 @@
 ### Hi, I'm Eric 👋
 
+I'm a Junior Software Developer and Software Tester based in Prague, with a strong foundation in backend development and practical experience in testing banking applications.
+
+🛠️ **Tech Stack**: Java • Spring Boot • REST API • PostgreSQL • React • JUnit • Postman  
+📦 **Tools**: Git • IntelliJ • JIRA • VS Code  
+🔍 **Focus**: Backend logic, API development & testing, unit/integration tests, automation basics
+
 Software engineer student at <a href="https://www.42prague.com">42 Prague</a>.
+
 ---
 I'm learning:
 <p align="left">
