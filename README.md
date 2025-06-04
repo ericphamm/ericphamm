@@ -9,13 +9,11 @@ I'm a Junior Software Developer and Software Tester based in Prague, with a stro
 Software engineer student at <a href="https://www.42prague.com">42 Prague</a>.
 
 ---
-I'm learning:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,c,python,js,astro,react,tailwind,html,css,bootstrap,mysql,postgres,sqlite,postman,idea,vscode,git,github,linux" />
   </a>
 </p>
-
 ---
 
 <h4>Connect with me:</h4>
