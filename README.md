@@ -11,7 +11,7 @@ Software engineer student at <a href="https://www.42prague.com">42 Prague</a>.
 ---
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,c,python,js,astro,react,tailwind,html,css,bootstrap,mysql,postgres,sqlite,postman,idea,vscode,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,tailwind,postgres,postman,c,python,js,astro,html,css,bootstrap,sqlite,idea,vscode,git,github,linux,docker" />
   </a>
 </p>
 
